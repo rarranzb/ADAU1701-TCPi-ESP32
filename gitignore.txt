@@ -1,15 +1,6 @@
-# Arduino build artifacts
 build/
-*.bin
-*.elf
-*.hex
-*.map
-
-# IDE files
-.vscode/
-*.code-workspace
+*.bin.bak
 **/.DS_Store
 Thumbs.db
-
-# Arduino IDE preferences
 preferences.txt
+
