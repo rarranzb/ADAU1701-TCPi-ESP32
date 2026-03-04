@@ -1,0 +1,16 @@
+{
+  "name": "ADAU1701-TCPi-ESP32",
+  "version": "1.0.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/rarranzb/ADAU1701-TCPi-ESP32/main/firmware/ADAU1701_TCPi_ESP32.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
